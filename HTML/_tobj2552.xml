@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>0</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Bonus_Questions</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>0</numrandom>
+<passinggrade>75</passinggrade>
+<cancelfail>a001_bonusclose_bonusclose.html</cancelfail>
+<passdone>a001_bonusclose_bonusclose.html</passdone>
+<prevpage>a001_content_next_steps.html</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>a001_bonus_questions_q1_policy.html</name>
+<question>
+<id>14716</id>
+<type>2</type>
+<weight>1</weight>
+<name>B1</name>
+<var>VarB1</var>
+<text>The aim of risk management at an air rifle range is: </text>
+<correctans>to identify what can cause harm and plan ways to minimize that harm</correctans>
+<choices>to increase the efficiency of the activity|to identify what can cause harm and plan ways to minimize that harm|to make the activity more fun and challenging for participants|to maintain good order and discipline</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>1</index>
+<name>a001_bonus_questions_q2_roles.html</name>
+<question>
+<id>14556</id>
+<type>2</type>
+<weight>1</weight>
+<name>B2</name>
+<var>VarB2</var>
+<text>Your corps/squadron is building a permanent outdoor air rifle range. There's not enough room for the 250m danger template, so a backstop with a butt and 3m side wings on each side must be built. How high do the butt and side wings need to be? </text>
+<correctans>1.75m</correctans>
+<choices>2m|2.25m|3m|1.75m</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+<question>
+<id>14758</id>
+<type>14</type>
+<weight>1</weight>
+<name>B3</name>
+<var>VarB3</var>
+<text>CATO 14-41 states that the major design considerations in the establishment of a range site are: (check all that apply)</text>
+<correctans>containment of fired  pellets,controlled access into the range area,lighting that allows for a clear view from firing point to targets</correctans>
+<choices>containment of fired  pellets|controlled access into the range area|close to a hospital|lighting that allows for a clear view from firing point to targets</choices>
+<allowmult>1</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>2</index>
+<name>a001_bonus_questions_q3_activity.html</name>
+<question>
+<id>14786</id>
+<type>1</type>
+<weight>1</weight>
+<name>B4</name>
+<var>VarB4</var>
+<text>On the command 'Adopt the prone position" the shooters can get their equipment set up, adjust their position and load a pellet into the rifle"</text>
+<correctans>FALSE</correctans>
+<choices>TRUE|FALSE</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+<question>
+<id>15001</id>
+<type>11</type>
+<weight>1</weight>
+<name>B5</name>
+<var>VarB5</var>
+<text>Put these range commands in order:</text>
+<correctans>Cover off your firing point,Change flag/light to red,Load, commence firing,Change targets</correctans>
+<choices>Cover off your firing point|Change flag/light to red|Load, commence firing|Change targets</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+</lectoratest>
