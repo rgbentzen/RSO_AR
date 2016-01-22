@@ -7,7 +7,7 @@ Online training course for certification of CIC Officers to operate an air rifle
 English and French, for National access via the Defence Learning Network.  Expected official duration of 6 hours, including quiz and other activities.
 
 ### Roles/Responsibility
-I designed and developed the course content with the Content Development Officer (CDO) and a subject matter expert from concept to implementation. I expanded the existing templates to include new layouts for more interactivity, simple gasification and clear navigation.
+I designed and developed the course content with the Content Development Officer (CDO) and a subject matter expert from concept to implementation. I expanded the existing templates to include new layouts for more interactivity, simple gamification and clear navigation.
 
 ### Approach
 I developed with Trivantis Publisher v11, and published as SCORM modules for delivery on Saba LMS.  Exported to HTML for Portfolio review.  
@@ -19,5 +19,4 @@ This course contains the following attributes:
 - in-course certificate
 
 ### Instructions for review
-I have provided an HTML files for your review.
-index.html will launch the Content of the RSO AR course
+I have provided an HTML files for your review.  Use index.html will launch the Content of the RSO AR course
