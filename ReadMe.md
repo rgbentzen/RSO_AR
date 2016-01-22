@@ -19,4 +19,4 @@ This course contains the following attributes:
 - in-course certificate
 
 ### Instructions for review
-I have provided an HTML files for your review.  Use index.html will launch the Content of the RSO AR course
+I have provided an HTML version of the files for your review.  Use index.html will launch the Content of the RSO AR course
